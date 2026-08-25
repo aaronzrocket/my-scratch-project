@@ -5,4 +5,4 @@ WASD or arrow keys to move around. W, Up arrow, or Space to jump. You can wall j
 
 Press P to pause (New feature!)
 
-Slightly buggy moving platforms. Might fix.
+Update: Fixed Moving platform bug!
